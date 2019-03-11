@@ -1,0 +1,38 @@
+body {
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/M1IgxJt/page-of-phone-book-with-names-and-address-rotating-in-a-black-background_sw5ybmrg__F0000.png");
+}
+
+form {
+    background-color: #cccccc;
+    color: white;
+    border: 1px solid;
+    text-align: center;
+    width: 35%;
+    margin: auto;
+    padding: 0 0 30px 0;
+}
+
+input {
+    border: none;
+    border-bottom: solid 1px #cccccc; 
+    font-size: 17px;
+    width: 70%;
+    margin: 10px 0 10px 0;
+}
+
+.header {
+    color: white;
+}
+
+.relation {
+    font-size: 17px;
+    width: 70%;
+    margin: 10px 0 10px 0;
+}
+
+.addButton {
+    font-size: 17px;
+    width: 70%;
+    margin: 10px 0 10px 0;  
+    padding: 0 0 0 0; 
+}
